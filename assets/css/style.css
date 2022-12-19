@@ -55,7 +55,7 @@
 
 /* Root css */
 :root {
-	--text-color: #808285;
+	--text-color: #525353;
 	--heading: #191919;
     --blue-dark: #5956e9;
 	--light-gray: #fafafb;
@@ -87,6 +87,9 @@ a{
     -webkit-transition: all .3s;
     -o-transition: all .3s;
     transition: all .3s;
+}
+.bold{
+    color: #191919;
 }
 a:hover,a:focus{
     color: inherit;
